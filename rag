@@ -1,0 +1,19 @@
+Work flow for rag
+
+Documents
+   ↓
+Load
+   ↓
+Split into chunks
+   ↓
+Create embeddings
+   ↓
+Vector Database
+   ↓
+User Question
+   ↓
+Retrieve relevant chunks
+   ↓
+LLM
+   ↓
+Answer
